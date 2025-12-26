@@ -1,0 +1,13 @@
+# IntelliJ-specific files and folders
+.idea/
+*.iml
+
+# Build artifacts
+out/
+target/
+*.class
+
+# Maven/Gradle specific folders (optional, depending on your build system)
+/build/
+/bin/
+.gradle/
